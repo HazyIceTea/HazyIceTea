@@ -16,7 +16,7 @@
 Интересные проекты (список будет пополняться) :
  * Соавтор проекта для хакатона https://github.com/PafnutiyMcNick/createApp
  * Проект мини сайта по поиску фильмов https://github.com/HazyIceTea/movies-explorer-frontend https://github.com/HazyIceTea/movies-explorer-api
- * На данный момент работаю над личным проектом
+
 
 <!--
 **HazyIceTea/HazyIceTea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
